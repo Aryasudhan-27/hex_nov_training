@@ -1,0 +1,3 @@
+BFS: C: -Users - Program files - Imtiyaz - public - Java - documents- downloads
+DFS: C: -Users - imtiyaz - documents- Downloads - Java- Public- Program Files
+java can be visited several times because there are two ways to reach java. if we mark as visited, it skips.
