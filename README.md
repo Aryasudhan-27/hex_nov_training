@@ -6,3 +6,8 @@ Welcome to my repository for the **Hexaware Foundation Training** program! This 
 * Core Programming Concepts
 * Problem Solving & Algorithms
 * Hands-on Coding Assignments
+* Version Control & Collaboration (Git & GitHub)
+* Software Testing & Unit Testing
+* Agile Methodologies & Scrum
+* Debugging & Clean Code Practices
+* SDLC (Software Development Life Cycle)
